@@ -1,7 +1,7 @@
 # flask_video__client_server_resize-pic
 
 A service that can resize images-
-Independent software client processes should be able to ‘connect’
+Independent software client processes able to ‘connect’
 to the service in some way. These clients may be local (on the same machine), 
 or (for extra points), the service could allow connections from a mixture of both local and remote clients.
 Note that the service should process images (single video frames), not complete videos. 
